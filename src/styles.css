@@ -1,3 +1,33 @@
 body {
-  font-family: sans-serif;
+  color: white;
+  text-align: center;
+  background-color: black;
+  font-family: "Open Sans", sans-serif;
+}
+label {
+  display: block;
+  padding: 1rem;
+}
+input {
+  padding: 0.5rem;
+  border: 2px solid lightgreen;
+  color: white;
+  background-color: black;
+}
+.stocks-color {
+  color: lightgreen;
+}
+
+button {
+  border: 2px solid lightgreen;
+
+  /* background-color: black;
+    color: white; */
+}
+.output {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+marquee {
+  padding: 1rem;
 }

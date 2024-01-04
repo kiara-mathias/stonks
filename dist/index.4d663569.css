@@ -1,5 +1,37 @@
 body {
-  font-family: sans-serif;
+  color: #fff;
+  text-align: center;
+  background-color: #000;
+  font-family: Open Sans, sans-serif;
+}
+
+label {
+  padding: 1rem;
+  display: block;
+}
+
+input {
+  color: #fff;
+  background-color: #000;
+  border: 2px solid #90ee90;
+  padding: .5rem;
+}
+
+.stocks-color {
+  color: #90ee90;
+}
+
+button {
+  border: 2px solid #90ee90;
+}
+
+.output {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+marquee {
+  padding: 1rem;
 }
 
 /*# sourceMappingURL=index.4d663569.css.map */
